@@ -1,0 +1,11 @@
+E:\Git\ProjectEuler\1-Multiples of 3 and 5\bin\Debug\netcoreapp2.0\1-Multiples of 3 and 5.deps.json
+E:\Git\ProjectEuler\1-Multiples of 3 and 5\bin\Debug\netcoreapp2.0\1-Multiples of 3 and 5.runtimeconfig.json
+E:\Git\ProjectEuler\1-Multiples of 3 and 5\bin\Debug\netcoreapp2.0\1-Multiples of 3 and 5.runtimeconfig.dev.json
+E:\Git\ProjectEuler\1-Multiples of 3 and 5\bin\Debug\netcoreapp2.0\1-Multiples of 3 and 5.dll
+E:\Git\ProjectEuler\1-Multiples of 3 and 5\bin\Debug\netcoreapp2.0\1-Multiples of 3 and 5.pdb
+E:\Git\ProjectEuler\1-Multiples of 3 and 5\obj\Debug\netcoreapp2.0\1-Multiples of 3 and 5.csprojAssemblyReference.cache
+E:\Git\ProjectEuler\1-Multiples of 3 and 5\obj\Debug\netcoreapp2.0\1-Multiples of 3 and 5.csproj.CoreCompileInputs.cache
+E:\Git\ProjectEuler\1-Multiples of 3 and 5\obj\Debug\netcoreapp2.0\1-Multiples of 3 and 5.AssemblyInfoInputs.cache
+E:\Git\ProjectEuler\1-Multiples of 3 and 5\obj\Debug\netcoreapp2.0\1-Multiples of 3 and 5.AssemblyInfo.cs
+E:\Git\ProjectEuler\1-Multiples of 3 and 5\obj\Debug\netcoreapp2.0\1-Multiples of 3 and 5.dll
+E:\Git\ProjectEuler\1-Multiples of 3 and 5\obj\Debug\netcoreapp2.0\1-Multiples of 3 and 5.pdb
