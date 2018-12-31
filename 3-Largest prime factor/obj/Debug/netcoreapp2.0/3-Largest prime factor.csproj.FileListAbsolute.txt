@@ -1,0 +1,11 @@
+E:\Git\ProjectEuler\3-Largest prime factor\bin\Debug\netcoreapp2.0\3-Largest prime factor.deps.json
+E:\Git\ProjectEuler\3-Largest prime factor\bin\Debug\netcoreapp2.0\3-Largest prime factor.runtimeconfig.json
+E:\Git\ProjectEuler\3-Largest prime factor\bin\Debug\netcoreapp2.0\3-Largest prime factor.runtimeconfig.dev.json
+E:\Git\ProjectEuler\3-Largest prime factor\bin\Debug\netcoreapp2.0\3-Largest prime factor.dll
+E:\Git\ProjectEuler\3-Largest prime factor\bin\Debug\netcoreapp2.0\3-Largest prime factor.pdb
+E:\Git\ProjectEuler\3-Largest prime factor\obj\Debug\netcoreapp2.0\3-Largest prime factor.csprojAssemblyReference.cache
+E:\Git\ProjectEuler\3-Largest prime factor\obj\Debug\netcoreapp2.0\3-Largest prime factor.csproj.CoreCompileInputs.cache
+E:\Git\ProjectEuler\3-Largest prime factor\obj\Debug\netcoreapp2.0\3-Largest prime factor.AssemblyInfoInputs.cache
+E:\Git\ProjectEuler\3-Largest prime factor\obj\Debug\netcoreapp2.0\3-Largest prime factor.AssemblyInfo.cs
+E:\Git\ProjectEuler\3-Largest prime factor\obj\Debug\netcoreapp2.0\3-Largest prime factor.dll
+E:\Git\ProjectEuler\3-Largest prime factor\obj\Debug\netcoreapp2.0\3-Largest prime factor.pdb
