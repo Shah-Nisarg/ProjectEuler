@@ -1,0 +1,11 @@
+E:\Git\ProjectEuler\2-Even Fibonacci numbers\bin\Debug\netcoreapp2.0\2-Even Fibonacci numbers.deps.json
+E:\Git\ProjectEuler\2-Even Fibonacci numbers\bin\Debug\netcoreapp2.0\2-Even Fibonacci numbers.runtimeconfig.json
+E:\Git\ProjectEuler\2-Even Fibonacci numbers\bin\Debug\netcoreapp2.0\2-Even Fibonacci numbers.runtimeconfig.dev.json
+E:\Git\ProjectEuler\2-Even Fibonacci numbers\bin\Debug\netcoreapp2.0\2-Even Fibonacci numbers.dll
+E:\Git\ProjectEuler\2-Even Fibonacci numbers\bin\Debug\netcoreapp2.0\2-Even Fibonacci numbers.pdb
+E:\Git\ProjectEuler\2-Even Fibonacci numbers\obj\Debug\netcoreapp2.0\2-Even Fibonacci numbers.csprojAssemblyReference.cache
+E:\Git\ProjectEuler\2-Even Fibonacci numbers\obj\Debug\netcoreapp2.0\2-Even Fibonacci numbers.csproj.CoreCompileInputs.cache
+E:\Git\ProjectEuler\2-Even Fibonacci numbers\obj\Debug\netcoreapp2.0\2-Even Fibonacci numbers.AssemblyInfoInputs.cache
+E:\Git\ProjectEuler\2-Even Fibonacci numbers\obj\Debug\netcoreapp2.0\2-Even Fibonacci numbers.AssemblyInfo.cs
+E:\Git\ProjectEuler\2-Even Fibonacci numbers\obj\Debug\netcoreapp2.0\2-Even Fibonacci numbers.dll
+E:\Git\ProjectEuler\2-Even Fibonacci numbers\obj\Debug\netcoreapp2.0\2-Even Fibonacci numbers.pdb
