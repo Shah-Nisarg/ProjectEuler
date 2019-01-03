@@ -1,0 +1,11 @@
+E:\Git\ProjectEuler\4-Largest palindrome product\bin\Debug\netcoreapp2.0\4-Largest palindrome product.deps.json
+E:\Git\ProjectEuler\4-Largest palindrome product\bin\Debug\netcoreapp2.0\4-Largest palindrome product.runtimeconfig.json
+E:\Git\ProjectEuler\4-Largest palindrome product\bin\Debug\netcoreapp2.0\4-Largest palindrome product.runtimeconfig.dev.json
+E:\Git\ProjectEuler\4-Largest palindrome product\bin\Debug\netcoreapp2.0\4-Largest palindrome product.dll
+E:\Git\ProjectEuler\4-Largest palindrome product\bin\Debug\netcoreapp2.0\4-Largest palindrome product.pdb
+E:\Git\ProjectEuler\4-Largest palindrome product\obj\Debug\netcoreapp2.0\4-Largest palindrome product.csprojAssemblyReference.cache
+E:\Git\ProjectEuler\4-Largest palindrome product\obj\Debug\netcoreapp2.0\4-Largest palindrome product.csproj.CoreCompileInputs.cache
+E:\Git\ProjectEuler\4-Largest palindrome product\obj\Debug\netcoreapp2.0\4-Largest palindrome product.AssemblyInfoInputs.cache
+E:\Git\ProjectEuler\4-Largest palindrome product\obj\Debug\netcoreapp2.0\4-Largest palindrome product.AssemblyInfo.cs
+E:\Git\ProjectEuler\4-Largest palindrome product\obj\Debug\netcoreapp2.0\4-Largest palindrome product.dll
+E:\Git\ProjectEuler\4-Largest palindrome product\obj\Debug\netcoreapp2.0\4-Largest palindrome product.pdb
