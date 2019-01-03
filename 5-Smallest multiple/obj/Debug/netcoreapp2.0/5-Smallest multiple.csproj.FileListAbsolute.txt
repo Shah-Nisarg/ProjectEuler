@@ -1,0 +1,11 @@
+E:\Git\ProjectEuler\5-Smallest multiple\bin\Debug\netcoreapp2.0\5-Smallest multiple.deps.json
+E:\Git\ProjectEuler\5-Smallest multiple\bin\Debug\netcoreapp2.0\5-Smallest multiple.runtimeconfig.json
+E:\Git\ProjectEuler\5-Smallest multiple\bin\Debug\netcoreapp2.0\5-Smallest multiple.runtimeconfig.dev.json
+E:\Git\ProjectEuler\5-Smallest multiple\bin\Debug\netcoreapp2.0\5-Smallest multiple.dll
+E:\Git\ProjectEuler\5-Smallest multiple\bin\Debug\netcoreapp2.0\5-Smallest multiple.pdb
+E:\Git\ProjectEuler\5-Smallest multiple\obj\Debug\netcoreapp2.0\5-Smallest multiple.csprojAssemblyReference.cache
+E:\Git\ProjectEuler\5-Smallest multiple\obj\Debug\netcoreapp2.0\5-Smallest multiple.csproj.CoreCompileInputs.cache
+E:\Git\ProjectEuler\5-Smallest multiple\obj\Debug\netcoreapp2.0\5-Smallest multiple.AssemblyInfoInputs.cache
+E:\Git\ProjectEuler\5-Smallest multiple\obj\Debug\netcoreapp2.0\5-Smallest multiple.AssemblyInfo.cs
+E:\Git\ProjectEuler\5-Smallest multiple\obj\Debug\netcoreapp2.0\5-Smallest multiple.dll
+E:\Git\ProjectEuler\5-Smallest multiple\obj\Debug\netcoreapp2.0\5-Smallest multiple.pdb
