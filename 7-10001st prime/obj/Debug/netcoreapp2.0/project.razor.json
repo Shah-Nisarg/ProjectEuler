@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "e:\\Git\\ProjectEuler\\7-10001st prime\\7-10001st prime.csproj",
+  "TargetFramework": "netcoreapp2.0",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

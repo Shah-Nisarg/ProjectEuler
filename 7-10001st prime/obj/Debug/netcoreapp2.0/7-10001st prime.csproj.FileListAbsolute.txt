@@ -1,0 +1,11 @@
+E:\Git\ProjectEuler\7-10001st prime\bin\Debug\netcoreapp2.0\7-10001st prime.deps.json
+E:\Git\ProjectEuler\7-10001st prime\bin\Debug\netcoreapp2.0\7-10001st prime.runtimeconfig.json
+E:\Git\ProjectEuler\7-10001st prime\bin\Debug\netcoreapp2.0\7-10001st prime.runtimeconfig.dev.json
+E:\Git\ProjectEuler\7-10001st prime\bin\Debug\netcoreapp2.0\7-10001st prime.dll
+E:\Git\ProjectEuler\7-10001st prime\bin\Debug\netcoreapp2.0\7-10001st prime.pdb
+E:\Git\ProjectEuler\7-10001st prime\obj\Debug\netcoreapp2.0\7-10001st prime.csprojAssemblyReference.cache
+E:\Git\ProjectEuler\7-10001st prime\obj\Debug\netcoreapp2.0\7-10001st prime.csproj.CoreCompileInputs.cache
+E:\Git\ProjectEuler\7-10001st prime\obj\Debug\netcoreapp2.0\7-10001st prime.AssemblyInfoInputs.cache
+E:\Git\ProjectEuler\7-10001st prime\obj\Debug\netcoreapp2.0\7-10001st prime.AssemblyInfo.cs
+E:\Git\ProjectEuler\7-10001st prime\obj\Debug\netcoreapp2.0\7-10001st prime.dll
+E:\Git\ProjectEuler\7-10001st prime\obj\Debug\netcoreapp2.0\7-10001st prime.pdb
