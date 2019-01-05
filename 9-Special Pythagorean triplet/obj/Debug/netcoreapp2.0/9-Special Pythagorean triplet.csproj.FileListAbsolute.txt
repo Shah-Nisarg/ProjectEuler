@@ -1,0 +1,11 @@
+E:\Git\ProjectEuler\9-Special Pythagorean triplet\bin\Debug\netcoreapp2.0\9-Special Pythagorean triplet.deps.json
+E:\Git\ProjectEuler\9-Special Pythagorean triplet\bin\Debug\netcoreapp2.0\9-Special Pythagorean triplet.runtimeconfig.json
+E:\Git\ProjectEuler\9-Special Pythagorean triplet\bin\Debug\netcoreapp2.0\9-Special Pythagorean triplet.runtimeconfig.dev.json
+E:\Git\ProjectEuler\9-Special Pythagorean triplet\bin\Debug\netcoreapp2.0\9-Special Pythagorean triplet.dll
+E:\Git\ProjectEuler\9-Special Pythagorean triplet\bin\Debug\netcoreapp2.0\9-Special Pythagorean triplet.pdb
+E:\Git\ProjectEuler\9-Special Pythagorean triplet\obj\Debug\netcoreapp2.0\9-Special Pythagorean triplet.csprojAssemblyReference.cache
+E:\Git\ProjectEuler\9-Special Pythagorean triplet\obj\Debug\netcoreapp2.0\9-Special Pythagorean triplet.csproj.CoreCompileInputs.cache
+E:\Git\ProjectEuler\9-Special Pythagorean triplet\obj\Debug\netcoreapp2.0\9-Special Pythagorean triplet.AssemblyInfoInputs.cache
+E:\Git\ProjectEuler\9-Special Pythagorean triplet\obj\Debug\netcoreapp2.0\9-Special Pythagorean triplet.AssemblyInfo.cs
+E:\Git\ProjectEuler\9-Special Pythagorean triplet\obj\Debug\netcoreapp2.0\9-Special Pythagorean triplet.dll
+E:\Git\ProjectEuler\9-Special Pythagorean triplet\obj\Debug\netcoreapp2.0\9-Special Pythagorean triplet.pdb
