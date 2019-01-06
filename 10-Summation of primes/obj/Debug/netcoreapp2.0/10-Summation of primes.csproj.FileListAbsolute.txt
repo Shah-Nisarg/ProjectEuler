@@ -1,0 +1,11 @@
+E:\Git\ProjectEuler\10-Summation of primes\obj\Debug\netcoreapp2.0\10-Summation of primes.csprojAssemblyReference.cache
+E:\Git\ProjectEuler\10-Summation of primes\obj\Debug\netcoreapp2.0\10-Summation of primes.csproj.CoreCompileInputs.cache
+E:\Git\ProjectEuler\10-Summation of primes\obj\Debug\netcoreapp2.0\10-Summation of primes.AssemblyInfoInputs.cache
+E:\Git\ProjectEuler\10-Summation of primes\obj\Debug\netcoreapp2.0\10-Summation of primes.AssemblyInfo.cs
+E:\Git\ProjectEuler\10-Summation of primes\bin\Debug\netcoreapp2.0\10-Summation of primes.deps.json
+E:\Git\ProjectEuler\10-Summation of primes\bin\Debug\netcoreapp2.0\10-Summation of primes.runtimeconfig.json
+E:\Git\ProjectEuler\10-Summation of primes\bin\Debug\netcoreapp2.0\10-Summation of primes.runtimeconfig.dev.json
+E:\Git\ProjectEuler\10-Summation of primes\bin\Debug\netcoreapp2.0\10-Summation of primes.dll
+E:\Git\ProjectEuler\10-Summation of primes\bin\Debug\netcoreapp2.0\10-Summation of primes.pdb
+E:\Git\ProjectEuler\10-Summation of primes\obj\Debug\netcoreapp2.0\10-Summation of primes.dll
+E:\Git\ProjectEuler\10-Summation of primes\obj\Debug\netcoreapp2.0\10-Summation of primes.pdb
