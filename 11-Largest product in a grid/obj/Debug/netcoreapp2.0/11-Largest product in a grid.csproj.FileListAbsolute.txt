@@ -1,0 +1,11 @@
+E:\Git\ProjectEuler\11-Largest product in a grid\bin\Debug\netcoreapp2.0\11-Largest product in a grid.deps.json
+E:\Git\ProjectEuler\11-Largest product in a grid\bin\Debug\netcoreapp2.0\11-Largest product in a grid.runtimeconfig.json
+E:\Git\ProjectEuler\11-Largest product in a grid\bin\Debug\netcoreapp2.0\11-Largest product in a grid.runtimeconfig.dev.json
+E:\Git\ProjectEuler\11-Largest product in a grid\bin\Debug\netcoreapp2.0\11-Largest product in a grid.dll
+E:\Git\ProjectEuler\11-Largest product in a grid\bin\Debug\netcoreapp2.0\11-Largest product in a grid.pdb
+E:\Git\ProjectEuler\11-Largest product in a grid\obj\Debug\netcoreapp2.0\11-Largest product in a grid.csprojAssemblyReference.cache
+E:\Git\ProjectEuler\11-Largest product in a grid\obj\Debug\netcoreapp2.0\11-Largest product in a grid.csproj.CoreCompileInputs.cache
+E:\Git\ProjectEuler\11-Largest product in a grid\obj\Debug\netcoreapp2.0\11-Largest product in a grid.AssemblyInfoInputs.cache
+E:\Git\ProjectEuler\11-Largest product in a grid\obj\Debug\netcoreapp2.0\11-Largest product in a grid.AssemblyInfo.cs
+E:\Git\ProjectEuler\11-Largest product in a grid\obj\Debug\netcoreapp2.0\11-Largest product in a grid.dll
+E:\Git\ProjectEuler\11-Largest product in a grid\obj\Debug\netcoreapp2.0\11-Largest product in a grid.pdb
