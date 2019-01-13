@@ -1,0 +1,11 @@
+E:\Git\ProjectEuler\12-Highly divisible triangular number\bin\Debug\netcoreapp2.0\12-Highly divisible triangular number.deps.json
+E:\Git\ProjectEuler\12-Highly divisible triangular number\bin\Debug\netcoreapp2.0\12-Highly divisible triangular number.runtimeconfig.json
+E:\Git\ProjectEuler\12-Highly divisible triangular number\bin\Debug\netcoreapp2.0\12-Highly divisible triangular number.runtimeconfig.dev.json
+E:\Git\ProjectEuler\12-Highly divisible triangular number\bin\Debug\netcoreapp2.0\12-Highly divisible triangular number.dll
+E:\Git\ProjectEuler\12-Highly divisible triangular number\bin\Debug\netcoreapp2.0\12-Highly divisible triangular number.pdb
+E:\Git\ProjectEuler\12-Highly divisible triangular number\obj\Debug\netcoreapp2.0\12-Highly divisible triangular number.csprojAssemblyReference.cache
+E:\Git\ProjectEuler\12-Highly divisible triangular number\obj\Debug\netcoreapp2.0\12-Highly divisible triangular number.csproj.CoreCompileInputs.cache
+E:\Git\ProjectEuler\12-Highly divisible triangular number\obj\Debug\netcoreapp2.0\12-Highly divisible triangular number.AssemblyInfoInputs.cache
+E:\Git\ProjectEuler\12-Highly divisible triangular number\obj\Debug\netcoreapp2.0\12-Highly divisible triangular number.AssemblyInfo.cs
+E:\Git\ProjectEuler\12-Highly divisible triangular number\obj\Debug\netcoreapp2.0\12-Highly divisible triangular number.dll
+E:\Git\ProjectEuler\12-Highly divisible triangular number\obj\Debug\netcoreapp2.0\12-Highly divisible triangular number.pdb
