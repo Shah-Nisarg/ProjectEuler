@@ -1,0 +1,11 @@
+E:\Git\ProjectEuler\14-Longest Collatz sequence\bin\Debug\netcoreapp2.0\14-Longest Collatz sequence.deps.json
+E:\Git\ProjectEuler\14-Longest Collatz sequence\bin\Debug\netcoreapp2.0\14-Longest Collatz sequence.runtimeconfig.json
+E:\Git\ProjectEuler\14-Longest Collatz sequence\bin\Debug\netcoreapp2.0\14-Longest Collatz sequence.runtimeconfig.dev.json
+E:\Git\ProjectEuler\14-Longest Collatz sequence\bin\Debug\netcoreapp2.0\14-Longest Collatz sequence.dll
+E:\Git\ProjectEuler\14-Longest Collatz sequence\bin\Debug\netcoreapp2.0\14-Longest Collatz sequence.pdb
+E:\Git\ProjectEuler\14-Longest Collatz sequence\obj\Debug\netcoreapp2.0\14-Longest Collatz sequence.csprojAssemblyReference.cache
+E:\Git\ProjectEuler\14-Longest Collatz sequence\obj\Debug\netcoreapp2.0\14-Longest Collatz sequence.csproj.CoreCompileInputs.cache
+E:\Git\ProjectEuler\14-Longest Collatz sequence\obj\Debug\netcoreapp2.0\14-Longest Collatz sequence.AssemblyInfoInputs.cache
+E:\Git\ProjectEuler\14-Longest Collatz sequence\obj\Debug\netcoreapp2.0\14-Longest Collatz sequence.AssemblyInfo.cs
+E:\Git\ProjectEuler\14-Longest Collatz sequence\obj\Debug\netcoreapp2.0\14-Longest Collatz sequence.dll
+E:\Git\ProjectEuler\14-Longest Collatz sequence\obj\Debug\netcoreapp2.0\14-Longest Collatz sequence.pdb

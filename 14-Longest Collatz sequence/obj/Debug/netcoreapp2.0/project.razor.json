@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "e:\\Git\\ProjectEuler\\14-Longest Collatz sequence\\14-Longest Collatz sequence.csproj",
+  "TargetFramework": "netcoreapp2.0",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
